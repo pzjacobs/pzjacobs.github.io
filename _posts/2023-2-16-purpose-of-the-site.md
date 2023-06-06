@@ -4,8 +4,8 @@ date: 2023-2-16T15:34:30-04:00
 categories:
   - blog
 tags:
-#  - Jekyll
-#  - update
+  - Jekyll
+  - update
 ---
 
 I plan to use this site as a portfolio to share my work.
