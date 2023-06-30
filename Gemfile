@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+# gem "github-pages", group: :jekyll_plugins
+# gem "minimal-mistakes-jekyll"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "kramdown-parser-gfm"
@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "github-pages"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
