@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: / # Set to / to make it the homepage
 title: "About"
 ---
 
