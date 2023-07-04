@@ -1,6 +1,6 @@
 ---
-permalink: / # /about/
-title: "About"
+layout: "splash"
+title: "Welcome!"
 author_profile: false
 ---
 

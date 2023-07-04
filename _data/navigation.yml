@@ -13,3 +13,27 @@ main:
     url: /resume/
   - title: "Contact"
     url: /contact/
+
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+
+  - title: "bruh1"
+    url: /cv/
+    
+  - title: "bruh2"
+    url: /markdown/
+
+  - title: "bruh3"
+    url: /cv/
+    
+  - title: "bruh4"
+    url: /markdown/
+
+  - title: "bruh5"
+    url: /cv/
+    
+  - title: "bruh6"
+    url: /markdown/
