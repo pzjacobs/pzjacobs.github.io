@@ -11,8 +11,8 @@ main:
   - title: "Resume"
     url: /resume/
 
-  - title: "Posts"
-    url: /posts/
+  - title: "Blog"
+    url: /blog/
 
   - title: "Contact"
     url: /contact/
